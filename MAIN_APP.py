@@ -1,15 +1,15 @@
-# import sklearn.ensemble as ensemble
-# from sklearn.model_selection import train_test_split
+import sklearn.ensemble as ensemble
+from sklearn.model_selection import train_test_split
 
-# import streamlit as st
-# import pandas as pd
-# import plotly.express as px
+import streamlit as st
+import pandas as pd
+import plotly.express as px
 import warnings
-# import numpy as np
-# import matplotlib.pyplot as plt
-# import streamlit.components.v1 as com
-# from plotly import graph_objs as obj
-# import os as os
+import numpy as np
+import matplotlib.pyplot as plt
+import streamlit.components.v1 as com
+from plotly import graph_objs as obj
+import os as os
 
 warnings.filterwarnings('ignore')
 
