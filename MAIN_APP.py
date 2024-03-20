@@ -15,7 +15,7 @@ warnings.filterwarnings('ignore')
 
 
 
-
+  
 st.set_page_config(page_title="Sixth Sense",page_icon=":medical_symbol:",layout="wide")
 
 st.title(":medical_symbol: Sixth Sense | A medical DATA ANALYZER AND DAILY HEALTH PREDICTOR")
