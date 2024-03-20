@@ -1,4 +1,4 @@
-from sklearn.ensemble import RandomForestClassifier
+import sklearn.ensemble as ensemble
 from sklearn.model_selection import train_test_split
 import streamlit as st
 import pandas as pd
