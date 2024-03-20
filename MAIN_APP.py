@@ -31,7 +31,6 @@ if fl is not None:
     df = pd.read_csv("filename")## Reading th csv file
     ## We will read the csv file over here 
 else:
-    os.chdir(r"C:\Users\KIIT\PYTHON\ML_DS_MINOR_PROJECT\A1")
     df = pd.read_csv("data//Sleep_Health_Diseases.csv",encoding="ISO-8859-1")
 
 
