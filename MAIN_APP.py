@@ -109,7 +109,7 @@ if submitted:
         "Sleep Disorder": sleep_disorder
     }
 
-  data = pd.Dataframe(data)
+    data = pd.Dataframe(data)
     st.table(data)
     # Analysis options
 
