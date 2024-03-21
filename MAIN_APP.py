@@ -108,6 +108,8 @@ if submitted:
         "Daily Steps": daily_steps,
         "Sleep Disorder": sleep_disorder
     }
+
+  data = pd.Dataframe(data)
     st.table(data)
     # Analysis options
 
