@@ -8,7 +8,7 @@ from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler, FunctionTransformer
 from sklearn.svm import SVC
 import streamlit as st
-import pandas as pd
+import pandas as pd 
 import plotly.express as px
 import warnings
 import numpy as np
